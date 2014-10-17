@@ -1,0 +1,17 @@
+{
+  "name": "node-aerocoin",
+  "version": "0.0.1",
+  "description": "Aero Coin Client",
+  "keywords": [
+    "aerocoin",
+    "aero",
+    "node-aerocoin-client"
+  ],
+  "repository": "git://github.com/aeromasterdev/node-aerocoin.git",
+  "author": "Simon Evans <majika@aerocoin.org",
+  "main": "lib/aerocoin.js",
+  "engines": {"node": ">= 0.10.0"},
+  "devDependencies": {
+    "nodeunit": "*"
+  }
+}

@@ -1,0 +1,16 @@
+lib-cov
+*.seed
+*.csv
+*.dat
+*.out
+*.pid
+
+
+# Poject specific
+
+.assets
+.bin
+.notes
+.idea
+
+
