@@ -1,6 +1,6 @@
 # A Node.js Aerocoin Client!
 
-![aerocoin](https://github.com/aeromasterdev/node-aerocoin-master/blob/master/node-aerocoin.png?raw=true)
+![aerocoin](https://raw.githubusercontent.com/aeromasterdev/node-aerocoin/master/node-aerocoin.png)
 
 node-aerocoin is a aerocoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with aerocoin. The purpose of this repository is:
 
